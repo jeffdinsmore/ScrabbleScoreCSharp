@@ -16,11 +16,28 @@ namespace ScrabbleScore.Tests
     }
 
     [TestMethod]
-    public void TestTwoLetters_TestIfTwoLetterReturnsSingleScore_ScoreOfLetters()
+    public void TestTwoLetters_TestIfLetterPulledFromGroup_SingleLetter()
     {
-      Score testLetters = new Score();
-      string letter = "AE";
-      Assert.AreEqual(2, testLetters.Letters(letter));
+      Score testSplitLetters = new Score();
+      string letters = "ABCDE";
+      Assert.AreEqual("E", testSplitLetters.SplitLetters(letters));
+    }
+
+     [TestMethod]
+    public void AddTwoLetterValues_TestIfTwoLettersReturnSingleScore_ScoreOfLetters()
+    {
+      Score testAddLetters = new Score();
+      string letters = "AE";
+      Assert.AreEqual(2, testAddLetters.Letters(letters));
+    }
+
+    [TestMethod]
+    public void AddMultipleLetterValues_TestIfMultipleLettersReturnSingleScore_ScoreOfLetters()
+    {
+      Score testAddLetters = new Score();
+      string letters = "Quiznos";
+      string lettersUpperCase = letters.ToUpper();
+      Assert.AreEqual(25, testAddLetters.Letters(lettersUpperCase));
     }
   }
 }
