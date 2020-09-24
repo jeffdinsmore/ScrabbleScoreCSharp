@@ -10,12 +10,17 @@ namespace ScrabbleScore.Tests
     [TestMethod]
     public void TestLetter_TestLetterReturnsSingleScore_ScoreOfLetter()
     {
-      // testing code will go here
       Score testLetter = new Score();
       string letter = "A";
-      Assert.AreEqual(2, testLetter.Letters(letter));
+      Assert.AreEqual(1, testLetter.Letters(letter));
     }
 
-  
+    [TestMethod]
+    public void TestTwoLetters_TestIfTwoLetterReturnsSingleScore_ScoreOfLetters()
+    {
+      Score testLetters = new Score();
+      string letter = "AE";
+      Assert.AreEqual(2, testLetters.Letters(letter));
+    }
   }
 }
