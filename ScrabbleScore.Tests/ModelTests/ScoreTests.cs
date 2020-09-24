@@ -1,5 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ScrabbleScore.Models;
+// using Score;
 
 namespace ScrabbleScore.Tests
 {
@@ -7,11 +8,14 @@ namespace ScrabbleScore.Tests
   public class ScoreTests
   {
     [TestMethod]
-    public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
+    public void TestLetter_TestLetterReturnsSingleScore_ScoreOfLetter()
     {
       // testing code will go here
-      Name testName = new Name();
-      Assert.AreEqual(true, testName.NameofMethodWeAreTesting());
+      Score testLetter = new Score();
+      string letter = "A";
+      Assert.AreEqual(2, testLetter.Letters(letter));
     }
+
+  
   }
 }

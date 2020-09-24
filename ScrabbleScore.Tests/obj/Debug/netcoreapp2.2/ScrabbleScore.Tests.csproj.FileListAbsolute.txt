@@ -1,0 +1,17 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.Tests.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.Tests.runtimeconfig.json
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.Tests.runtimeconfig.dev.json
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.Tests.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\bin\Debug\netcoreapp2.2\ScrabbleScore.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.csproj.CopyComplete
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\scrabblescore.tests\obj\Debug\netcoreapp2.2\ScrabbleScore.Tests.pdb

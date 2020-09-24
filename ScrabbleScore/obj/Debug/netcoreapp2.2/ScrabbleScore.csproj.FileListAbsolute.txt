@@ -1,0 +1,9 @@
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.csprojAssemblyReference.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.AssemblyInfoInputs.cache
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.AssemblyInfo.cs
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\bin\Debug\netcoreapp2.2\ScrabbleScore.deps.json
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\bin\Debug\netcoreapp2.2\ScrabbleScore.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\bin\Debug\netcoreapp2.2\ScrabbleScore.pdb
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.dll
+C:\users\Jeffrey\documents\Epicodus\csharp\scrabblescore.solution\ScrabbleScore\obj\Debug\netcoreapp2.2\ScrabbleScore.pdb
