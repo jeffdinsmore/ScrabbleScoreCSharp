@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\scrabblescore.tests\\ScrabbleScore.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\scrabblescore.tests\\ScrabbleScore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\scrabblescore.tests\\ScrabbleScore.Tests.csproj",
+        "projectName": "ScrabbleScore.Tests",
+        "projectPath": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\scrabblescore.tests\\ScrabbleScore.Tests.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\scrabblescore.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\ScrabbleScore.csproj": {
+                "projectPath": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\ScrabbleScore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\ScrabbleScore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\ScrabbleScore.csproj",
+        "projectName": "ScrabbleScore",
+        "projectPath": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\ScrabbleScore.csproj",
+        "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
+        "outputPath": "C:\\users\\Jeffrey\\documents\\Epicodus\\csharp\\scrabblescore.solution\\ScrabbleScore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jeffrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
